@@ -1,0 +1,4 @@
+numberOfNodes{15}
+InitialLoRaSF{7}
+initialLoRaTP{7dBm}
+initialLoRaBW{250KHz}
