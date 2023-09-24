@@ -1,4 +1,4 @@
-# IoT Course Resources and Exercises
+# IoT Course Resources and Solutions
 
 Welcome to the IoT Course Resources and Exercises repository! This repository is designed to support the Internet of Things (IoT) course offered at the Computer Engineering Department of AUT (Amirkabir University of Technology). It contains a wealth of resources, projects, and code examples to help you understand and excel in the exciting field of IoT.
 
