@@ -1,5 +1,71 @@
-# IoT-Course-AUT
-This repository contains resources, projects, and code examples related to the Internet of Things (IoT) course offered at computer engineering department of AUT.
+# IoT Course Resources and Exercises
+
+Welcome to the IoT Course Resources and Exercises repository! This repository is designed to support the Internet of Things (IoT) course offered at the Computer Engineering Department of AUT (Amirkabir University of Technology). It contains a wealth of resources, projects, and code examples to help you understand and excel in the exciting field of IoT.
+
+## Overview
+
+The IoT course is divided into multiple exercises, each focusing on different aspects of IoT technology and applications. Below, you'll find an overview of the exercises and their key objectives:
+
+### Exercise 1: IoT Node Exploration
+
+In this exercise, we dive into IoT node functionalities using the NodeMCU board. We cover fundamental topics such as PWM, ADC, and light sensing. Here's what you'll do:
+
+- Initialize the NodeMCU board and display "Hello, World!"
+- Explore the applications of PWM and ADC in microcontrollers.
+- Read and display data from an LDR sensor.
+- Control an LED based on ambient light using PWM.
+
+### Exercise 2: WiFi and RFID Integration
+
+Exercise 2 is divided into two parts. First, you'll work with the WiFi capabilities of the NodeMCU board:
+
+- Connect to nearby WiFi networks and display the IP address.
+- Configure the WiFi module in Access Point mode with a static IP address.
+- Implement a web server to control an LED via a browser.
+
+In the second part, you'll explore RFID technology:
+
+- Understand the RFID-RC522 module's operation and applications.
+- Read and display information from RFID cards or tags.
+- Implement access control using RFID to activate an LED.
+
+### Exercise 3: LoRaWAN and Simulation
+
+This exercise delves into Low Power Wide Area Network (LPWAN) technology and LoRaWAN communication using the OMNET++ simulator. Here's an outline:
+
+- Install and configure OMNET++ and the FLoRa framework.
+- Analyze and execute a default LoRaWAN simulation scenario.
+- Change simulation parameters and analyze their impact.
+- Investigate adaptive data rate (ADR) in LoRaWAN.
+
+### Exercise 4: Protocols and IoT Platforms
+
+In this exercise, you'll explore various IoT communication protocols and platforms:
+
+- Set up MQTT, CoAP, HTTP, and AMQP protocols on your system.
+- Implement clients for these protocols on IoT devices.
+- Compare architecture, energy consumption, security, and more between MQTT, CoAP, and HTTP.
+- Optionally, explore IoT platforms, evaluate their features, and integrate data communication and visualization.
+
+## How to Use
+
+1. Clone this repository to your local machine using `git clone`.
+
+2. Navigate to the exercise folder you want to work on (e.g., `Exercise1`, `Exercise2`, etc.).
+
+3. Read the exercise instructions provided in each folder's pdf file.
+
+4. Implement your solutions and code examples based on the instructions.
+
+5. Use the provided resources and code samples to enhance your understanding of IoT concepts.
+
+6. For any questions or clarifications, feel free to create an issue in this repository.
+
+## Prerequisites
+
+- Basic knowledge of IoT concepts and microcontroller programming.
+
+- Familiarity with programming languages such as Python, C/C++, and scripting languages.
 
 # Exercise 1
 The purpose of this exercise is to examine the functions and capabilities of Internet of Things (IoT) nodes. In this exercise, we utilize the NodeMCU board as one of the IoT nodes. NodeMCU is an open-source hardware platform suitable for IoT projects that require wireless connectivity.
